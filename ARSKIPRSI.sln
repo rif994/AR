@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARSKIPRSI", "ARSKIPRSI.csproj", "{32ED985F-D7CF-71F6-6735-D45BD632ADF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARSKIPRSI.Editor", "ARSKIPRSI.Editor.csproj", "{0462991F-1D8B-CD79-763D-C3B068E1ED44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32ED985F-D7CF-71F6-6735-D45BD632ADF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32ED985F-D7CF-71F6-6735-D45BD632ADF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32ED985F-D7CF-71F6-6735-D45BD632ADF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32ED985F-D7CF-71F6-6735-D45BD632ADF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0462991F-1D8B-CD79-763D-C3B068E1ED44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0462991F-1D8B-CD79-763D-C3B068E1ED44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0462991F-1D8B-CD79-763D-C3B068E1ED44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0462991F-1D8B-CD79-763D-C3B068E1ED44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
